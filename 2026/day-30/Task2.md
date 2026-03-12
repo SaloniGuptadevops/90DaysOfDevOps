@@ -44,7 +44,7 @@ Practice the full lifecycle on one container:
 
 3. **Pause it and check status**
     ```bash
-    docker pause my-container
+    docker pause my-containers
     docker ps -a
     ```
 
